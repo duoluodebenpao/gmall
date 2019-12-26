@@ -1,2 +1,4 @@
-# gmall
-使用springboot开发完成商城项目
+# 语言学习 
+java 
+scala 
+sql 
