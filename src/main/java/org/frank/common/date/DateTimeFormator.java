@@ -1,4 +1,4 @@
-package org.frank.common.java.date;
+package org.frank.common.date;
 
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;

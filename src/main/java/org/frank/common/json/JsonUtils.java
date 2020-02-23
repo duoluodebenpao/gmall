@@ -7,12 +7,12 @@
  * @version V1.0
  */
 
-package org.frank.common.java.json;
+package org.frank.common.json;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.frank.common.java.string.StringUtil;
+import org.frank.common.string.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

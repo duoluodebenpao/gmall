@@ -1,4 +1,4 @@
-package org.frank.common.java.learn;
+package org.frank.common.learn;
 
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;

@@ -1,4 +1,4 @@
-package org.frank.common.java.string;
+package org.frank.common.string;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

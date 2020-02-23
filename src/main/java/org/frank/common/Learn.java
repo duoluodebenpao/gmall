@@ -1,4 +1,4 @@
-package org.frank.common.java;
+package org.frank.common;
 
 import java.util.ArrayList;
 import java.util.HashMap;

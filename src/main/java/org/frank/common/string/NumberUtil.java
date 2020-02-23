@@ -1,4 +1,4 @@
-package org.frank.common.java.string;
+package org.frank.common.string;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

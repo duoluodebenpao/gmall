@@ -1,4 +1,4 @@
-package org.frank.common.java.learn;
+package org.frank.common.learn;
 
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;

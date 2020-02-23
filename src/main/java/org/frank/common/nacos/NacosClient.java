@@ -1,4 +1,4 @@
-package org.frank.common.java.nacos;
+package org.frank.common.nacos;
 
 import com.alibaba.nacos.api.NacosFactory;
 import com.alibaba.nacos.api.config.ConfigService;

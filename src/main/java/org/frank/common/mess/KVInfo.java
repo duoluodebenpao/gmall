@@ -1,4 +1,4 @@
-package org.frank.common.java.mess;
+package org.frank.common.mess;
 
 import java.io.Serializable;
 import java.util.HashMap;

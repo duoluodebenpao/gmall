@@ -1,6 +1,6 @@
-package org.frank.common.java.date;
+package org.frank.common.date;
 
-import org.frank.common.java.string.StringUtil;
+import org.frank.common.string.StringUtil;
 
 import java.util.ArrayList;
 import java.util.HashMap;

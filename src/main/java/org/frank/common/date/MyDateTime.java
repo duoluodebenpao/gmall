@@ -1,4 +1,4 @@
-package org.frank.common.java.date;
+package org.frank.common.date;
 
 /**
  * <p>
@@ -13,7 +13,7 @@ package org.frank.common.java.date;
 
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
-import org.frank.common.java.string.StringUtil;
+import org.frank.common.string.StringUtil;
 
 import java.io.Serializable;
 import java.sql.Date;
